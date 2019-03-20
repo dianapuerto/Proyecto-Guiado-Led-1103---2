@@ -1,17 +1,36 @@
+# 1. OBJETIVO 
 
-# 1. DIAGRAMA PITAGORICO
+
+
+# 2. DIAGRAMA PITAGORICO
 
 ![1](https://github.com/colegio-seminario-diocesano-de-duitama/Proyecto-Guiado-Led-1103---2/blob/master/imagenes/pongo.00_bb%20(1).png)
 
-# 2. DIAGRAMA ESQUEMATICO
+# 3. DIAGRAMA ESQUEMATICO
 
 ![2](https://github.com/colegio-seminario-diocesano-de-duitama/Proyecto-Guiado-Led-1103---2/blob/master/imagenes/pong.3.png)   
 
-# 3. FUNCIONAMINETO DEL PROYECTO 
+# 4. FUNCIONAMINETO DEL PROYECTO 
 
-# 4.MATERIALES 
+# 5.MATERIALES 
 
-# 5. DESCRIPCIÓN
++ Placa Arduino
+
++ Protoboard
+
++ Jumpers ( macho-macho, macho-hembra, hembra-hembra)
+
++ 2 Potenciometros 
+
++ 2 Resistencias 150 ohm
+
++ Buzzer 
+
++ 6 Matriz led 8x8
+
++ Carton Industrial
+
+# 6. DESCRIPCIÓN
 
 a través de una placa arduino poseedora de un codigo de programacion se permite el funcionamiento de elementos necesarios para el correcto desarrollo del juego "PONG", como lo son las matrices Led, potenciometros, etcetera; este juego tendra una una consola tipo Game Boy diseñada a traves del programa FREECAD que consistira en el manejo de una escala 1:1 de los materiales nombrados anteriormente 
 
