@@ -1,6 +1,12 @@
 # 1. OBJETIVO 
 
-
+a través de una placa arduino poseedora de un codigo de programacion se permite el
+funcionamiento de elementos necesarios para el correcto desarrollo del juego "PONG",
+como lo son las matrices Led, potenciometros, etcetera; este juego tendra una una consola 
+tipo Game Boy diseñada a traves del programa FREECAD que consistira en el manejo de una escala 1:1 de los materiales
+nombrados anteriormente.
+ 
+con las matrices led se realizara la simulacion de una pelota y se llevara el conteo de los puntos.
 
 # 2. DIAGRAMA PITAGORICO
 
@@ -30,9 +36,8 @@
 
 + Carton Industrial
 
-# 6. DESCRIPCIÓN
 
-a través de una placa arduino poseedora de un codigo de programacion se permite el funcionamiento de elementos necesarios para el correcto desarrollo del juego "PONG", como lo son las matrices Led, potenciometros, etcetera; este juego tendra una una consola tipo Game Boy diseñada a traves del programa FREECAD que consistira en el manejo de una escala 1:1 de los materiales nombrados anteriormente 
+ 
 
 
 
