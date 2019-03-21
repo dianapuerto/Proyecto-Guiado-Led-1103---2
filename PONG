@@ -16,9 +16,11 @@ con las matrices led se realizara la simulacion de una pelota y se llevara el co
 
 ![2](https://github.com/colegio-seminario-diocesano-de-duitama/Proyecto-Guiado-Led-1103---2/blob/master/imagenes/pong.3.png)   
 
-# 4. FUNCIONAMINETO DEL PROYECTO
-
-
+# 4. DESCRIPCION FUNCIONAMINETO DEL PROYECTO
+ 
+ iniciamos utilizando matrices, luego se conectan mediante jumpers ( estos van conectados a las matrices y los otros van conectados polo a tierra)
+ con los mismos jumpers se conectan los potenciometros (estos son los encargados de mover el circuito). se utilizan resistencias y una conecion para
+ el buzzer (este es el que da el sonido del juego), todas estas conecciones son polo a tierra.
 
 
 # 5.MATERIALES 
