@@ -1,4 +1,4 @@
-## ¿CÓMO FUNCIONA?
+##¿CÓMO FUNCIONA?
 
 a través de una placa arduino poseedora de un codigo de programacion se permite el
 funcionamiento de elementos necesarios para el correcto desarrollo del juego "PONG",
@@ -8,7 +8,7 @@ nombrados anteriormente.
  
 con las matrices led se realizara la simulacion de una pelota y se llevara el conteo de los puntos.
 
-## DIAGRAMA PITAGORICO
+##DIAGRAMA PICTORICO
 
 ![1](https://github.com/colegio-seminario-diocesano-de-duitama/Proyecto-Guiado-Led-1103---2/blob/master/imagenes/pongo.00_bb%20(1).png)
 
