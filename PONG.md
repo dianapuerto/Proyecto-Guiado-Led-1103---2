@@ -48,10 +48,10 @@ con las matrices led se realizara la simulacion de una pelota y se llevara el co
 ![3](https://github.com/colegio-seminario-diocesano-de-duitama/Proyecto-Guiado-Led-1103---2/blob/master/imagenes/DCT.01.png)
 
 
-![4](https://github.com/colegio-seminario-diocesano-de-duitama/Proyecto-Guiado-Led-1103---2/blob/master/imagenes/image.png)
+![4](https://github.com/colegio-seminario-diocesano-de-duitama/Proyecto-Guiado-Led-1103---2/blob/master/imagenes/DST.01.png)
 
 
-![5](https://github.com/colegio-seminario-diocesano-de-duitama/Proyecto-Guiado-Led-1103---2/blob/master/imagenes/plano.png)
+![5](https://github.com/colegio-seminario-diocesano-de-duitama/Proyecto-Guiado-Led-1103---2/blob/master/imagenes/DCT.03.png)
 
 
 ![6](https://github.com/colegio-seminario-diocesano-de-duitama/Proyecto-Guiado-Led-1103---2/blob/master/imagenes/evidencia.jpeg)
